@@ -1,0 +1,63 @@
+name: Rubika Archiver Bot
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      flush_updates:
+        description: "برای دور ریختن فوری انبار پیام‌های قدیمی (بدون پاسخ دادن به هیچ‌کدوم) بنویسید: yes"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rubika-archiver-bot
+  cancel-in-progress: false
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run archiver (getUpdates + capture + quick replies)
+        timeout-minutes: 4
+        env:
+          RUBIKA_BOT_TOKEN: ${{ secrets.RUBIKA_BOT_TOKEN }}
+          TRIGGER_TYPE: ${{ github.event_name }}
+          FLUSH_UPDATES: ${{ github.event.inputs.flush_updates }}
+        run: python run_bot.py
+
+      - name: Save updated state.json back to the repo
+        timeout-minutes: 2
+        run: |
+          git config user.name "rubika-archiver-bot"
+          git config user.email "actions@users.noreply.github.com"
+          for i in 1 2 3; do
+            git add state.json
+            if git diff --quiet --cached; then
+              echo "چیزی برای کامیت نبود."
+              break
+            fi
+            git commit -m "update state [skip ci]"
+            git pull --rebase -X ours origin main || { git rebase --abort; git fetch origin main; git reset --soft origin/main; git add state.json; git commit -m "update state [skip ci]"; }
+            if git push origin main; then
+              echo "push موفق بود."
+              break
+            fi
+            echo "تلاش $i برای push ناموفق بود، دوباره امتحان می‌کنیم..."
+            sleep 3
+          done
