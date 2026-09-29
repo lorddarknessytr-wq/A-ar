@@ -2,7 +2,7 @@ name: Rubika Archiver Bot
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/9999 * * * *"
   workflow_dispatch:
     inputs:
       flush_updates:
