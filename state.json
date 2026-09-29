@@ -1,5 +1,5 @@
 {
-  "last_offset_id": "6abb200e79d2427318e648f7",
+  "last_offset_id": "6abb243dfe7a50a54e3e6082",
   "mods": [
     {
       "id": "dd82c85e",
@@ -550,6 +550,259 @@
       "description": "با بسته الحاقی \"ابعاد تاریک\"، بیوم \"تاریکی عمیق\" را فتح کنید: دنیایی ترسناک از غارها، سایه‌ها و دشمنان قدرتمند جدید. بیوم‌های وحشتناک را کاوش کنید، با موجودات هیولایی مبارزه کنید و با باس‌های مرگبار روبرو شوید، در حالی که اسرار باستانی را کشف می‌کنید و تجهیزات قدرتمندی می‌سازید!",
       "version": "1.26.30+",
       "number": "50"
+    },
+    {
+      "id": "06ea7274",
+      "photo_file_id": "eAv3aPLk08493587666206438031956925967572026091612",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607586329284",
+      "source_channel_guid": null,
+      "title": "xSpeell Craft",
+      "description": "این افزونه به شما این امکان را می‌دهد تا هنر ساخت طلسم‌های منحصربه‌فرد با ترکیبات بسیار متنوع را بیاموزید! یک زیست‌بوم جدید را کشف کنید، بلوک‌های جدید را باز کنید و با دوستان خود خوش بگذرانید.",
+      "version": "1.26+",
+      "number": "1"
+    },
+    {
+      "id": "077695f6",
+      "photo_file_id": "eC3FxA6107990131049705335502796608848912026091718",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607588329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Deep Dark Dimension",
+      "description": "با بسته الحاقی \"ابعاد تاریک و عمیق\"، از محدوده زیست‌بوم \"تاریکی عمیق\" فراتر بروید: وارد دنیایی وحشتناک از صخره‌ها، سایه‌ها و دشمنان قدرتمند جدید شوید. زیست‌بوم‌های ترسناک را کاوش کنید، با موجودات وحشتناک مبارزه کنید و با باس‌های خطرناک بجنگید، در حالی که اسرار باستانی را کشف می‌کنید و تجهیزات قدرتمندی می‌سازید!",
+      "version": "1.26.30+",
+      "number": "2"
+    },
+    {
+      "id": "a9c5f12d",
+      "photo_file_id": "eC3F6bk206095836427108859815602027855312026091719",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607590329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Basic Structure Generation",
+      "description": "مکان‌های اسرارآمیز را کشف کنید، ماموریت‌های هیجان‌انگیزی را انجام دهید و در طول مسیر، گنج‌های پنهان را پیدا کنید!\nبیش از 80 سازه\n40 ماموریت",
+      "version": "1.21+",
+      "number": "3"
+    },
+    {
+      "id": "262ec71f",
+      "photo_file_id": "eC3GsgVd00514815576547492084926569000372026091719",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607592329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی ZOMBIES REALISM",
+      "description": "با استفاده از ماد (افزونه) \"واقع‌گرایی زامبی‌ها\"، زامبی‌های واقع‌گرایانه را به هر دنیایی اضافه کنید! این افزونه، محتوای ترسناک برای ماجراجویی‌های شما در دوران آخرالزمان ارائه می‌دهد.\nانیمیشن‌های سریع‌تر و ترسناک‌تر.\nمحموله‌های حاوی آذوقه، سلاح و موارد دیگر.\nمبارزه با دسته‌های زامبی و باس‌ها.\nجلوه‌های صوتی ترسناک برای تجربه‌ی بقا در ژانر ترسناک.",
+      "version": "1.21+",
+      "number": "4"
+    },
+    {
+      "id": "d6654d16",
+      "photo_file_id": "eC3FepcX05706890118924421341747942840602026091719",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607594329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Структуры (Structures)",
+      "description": "ایجاد ساختمان‌ها در این افزونه، قطعاً شما را خوشحال خواهد کرد! شما شاهد خواهید بود:\nبیش از ۱۱۰ سازه منحصربه‌فرد.\nدخمه‌ها با گنجینه‌ها.\nساختمان‌ها تقریباً در هر زیستگاه.\nبیش از ۹۰ بلوک منحصربه‌فرد با مکانیک پیشرفته و تنوع بالا.\nبلوک‌های سفارشی که بر اساس سیستم اصلی بازی کار می‌کنند.\nافزونه را نصب کنید و دنیای خود را همین امروز زنده کنید!",
+      "version": "1.21+",
+      "number": "5"
+    },
+    {
+      "id": "20506235",
+      "photo_file_id": "eC3GOaHw02513382110857056577781797029372026091719",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607596329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی End Expansion",
+      "description": "این افزونه، 6 زیست‌بوم جدید را به بُعد \"اِند\" (The End) در بازی اضافه می‌کند. همچنین، موجودات، بلوک‌ها و آیتم‌های جدیدی نیز به بازی اضافه خواهند شد.",
+      "version": "26.30+",
+      "number": "6"
+    },
+    {
+      "id": "77c1004c",
+      "photo_file_id": "eC3GmBSM05224411815033166252719641091602026091719",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607598329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Liminal Dimension",
+      "description": "میز؟ صندلی؟ نه، این یک شکاف به بعدگاه است! از یک بعد جدید و منحصربه‌فرد کاوش کنید: یک فروشگاه مبلمان بی‌انتها که فقط برای شما باز شده است. اما مراقب باشید: ممکن است چیزهای بیشتری در آنجا وجود داشته باشد، فراتر از صرفاً مبلمان...",
+      "version": "1.26.30+",
+      "number": "7"
+    },
+    {
+      "id": "ecddb11d",
+      "photo_file_id": "eC3FqJKX06940280241187423041902558583072026091719",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607600329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Civilization",
+      "description": "این افزونه به شما این امکان را می‌دهد که تمدن خود را بسازید، گسترش دهید و مدیریت کنید. تمدن خود را توسعه دهید و جمعیت آن را افزایش دهید. ساختمان‌ها را ارتقا دهید، سرزمین‌ها را تصرف کنید، اقتصاد را مدیریت کنید، فروشگاه‌ها بسازید، مشاغل را بین شهروندان توزیع کنید، بازیکنان دیگر را دعوت کنید و یک رهبر انتخاب کنید.",
+      "version": "26.20+",
+      "number": "8"
+    },
+    {
+      "id": "2847c2b1",
+      "photo_file_id": "eDKxD8y803225535362358783551500710333532026091813",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607602329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی SuppleMentaries",
+      "description": "بیشتر بلوک‌ها! عناصر تزئینی متنوع به سبک وانیلا، بلوک‌های جدید ردستون برای سازوکارهای پیشرفته شما، زیست‌بوم‌ها و دخمه‌های جدید. همه این‌ها را می‌توانید به راحتی و بدون هیچ مشکلی در حالت بقا بسازید.",
+      "version": "1.21+",
+      "number": "9"
+    },
+    {
+      "id": "5b137d42",
+      "photo_file_id": "eDKwfS9F08994971869328420436873003416182026091813",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607604329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی SCP Survival",
+      "description": "این افزونه، موجودات وحشتناک و ترسناکی را به بازی اضافه می‌کند... موجودات SCP! اکنون آن‌ها در دنیای شما پرسه می‌زنند و یک هدف دارند: نابودی شما.",
+      "version": "26.0+",
+      "number": "10"
+    },
+    {
+      "id": "aa200611",
+      "photo_file_id": "eDKwm6AY06561053162291995580582762992322026091813",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607606329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Build Assist",
+      "description": "اضافهٔ Build Assist به بازیکنان کمک می‌کند تا ویرایش دنیای خود را با استفاده از Toolbox بهینه‌سازی کنند، که دسترسی فوری به ابزارهای جدید را فراهم می‌کند.",
+      "version": "1.26.30+",
+      "number": "11"
+    },
+    {
+      "id": "e6695f7e",
+      "photo_file_id": "eDKwpvoE07883308373120919283167802760962026091813",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607608329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Vending Machines",
+      "description": "تجربه‌ی بقای خود را با افزودن یک المان مدرن، ارتقا دهید! دستگاه‌های خودفروشی مدرن بسازید و از آن‌ها برای خرید اقلام مفید/جذاب استفاده کنید. یک فنجان قهوه بنوشید و انرژی بگیرید، یک جعبه کمک‌های اولیه بخرید و سریع‌تر سلامتی خود را بازیابید، یا از آن‌ها برای تزئین پروژه‌های شهری خلاقانه‌تان، مثلاً به عنوان مبلمان، استفاده کنید.",
+      "version": "26.30+",
+      "number": "12"
+    },
+    {
+      "id": "9a3d6d50",
+      "photo_file_id": "eDKwsIkh04548737313399191783073365146932026091814",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607611329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Cyber Armors",
+      "description": "با استفاده از ماژول Cyber Armors در Minecraft PE، فناوری‌های آینده به بازی اضافه می‌شوند. این ماژول مجموعه‌های ویژه‌ای از زره‌ها به سبک رباتیک را به بازی اضافه می‌کند. طراحی این زره‌ها از اشکال حیوانات واقعی الهام گرفته شده است، به همین دلیل هر قطعه از آن‌ها ظاهری غیرمعمول و آینده‌نگر دارد. ساخت این تجهیزات فقط در مراحل پایانی بازی امکان‌پذیر است.",
+      "version": "1.26.30+",
+      "number": "13"
+    },
+    {
+      "id": "2e6f91bc",
+      "photo_file_id": "eDMIHwiL02335640242451968673006530087332026091814",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607613329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Backpacks Stuff",
+      "description": "کوله پشتی و لوازم جانبی\nافزونه‌ای برای کوله‌پشتی‌های زیبا و کاربردی، سازگار با بسته‌ی منابع Actions and stuff! همه چیز لازم برای خوشحالی.",
+      "version": "1.26+",
+      "number": "14"
+    },
+    {
+      "id": "976b0f5e",
+      "photo_file_id": "eDMHhvo404468489308769171866125387726442026091814",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607615329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌یdotv vol2 overhaul",
+      "description": "همانند قسمت اول، با افزونه \"دنبال‌کنندگان پوچی: جلد دوم\"، شما باید با پنج باس قدرتمند در ماینکرافت Bedrock مبارزه کنید. هر کدام از آن‌ها به نوعی خطرناک هستند و دارای توانایی‌های بسیار قوی. شما باید تاکتیک‌های مختلفی را انتخاب کنید و از روش‌های گوناگون استفاده کنید تا دشمنان خود را شکست دهید. بدیهی است که هر موجودی، آیتم‌های ارزشمندی را به عنوان غنیمت ارائه می‌دهد که می‌توانید از آن‌ها استفاده کنید.",
+      "version": "1.21+",
+      "number": "15"
+    },
+    {
+      "id": "cc1f0d6c",
+      "photo_file_id": "eDNTOwml05924197208859599571900993476712026091814",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607631329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Мore Villages",
+      "description": "این افزونه، 8 دهکده جدید و بیش از 135 نفر با مشاغل جدید را به دنیای شما اضافه می‌کند!",
+      "version": "1.26+",
+      "number": "16"
+    },
+    {
+      "id": "931dbabd",
+      "photo_file_id": "eDNT18R402060373454613602342349691269652026091814",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607633329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Cinecam",
+      "description": "صحنه‌های سینمایی چشم‌نواز با حرکات روان دوربین، مسیرهای بصری و حالت‌های ضبط متنوع ایجاد کنید.",
+      "version": "26.0+",
+      "number": "17"
+    },
+    {
+      "id": "41d6da88",
+      "photo_file_id": "eDO5jN1r08630314132656219340545125640292026091814",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607635329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Revive",
+      "description": "یک فرصت دوباره برای زندگی داشته باشید! یک بازیکن دیگر می‌تواند شما را احیا کند و زره، آیتم‌ها و تجربه‌ی شما را بازگرداند.",
+      "version": "26.0+",
+      "number": "18"
+    },
+    {
+      "id": "114b718a",
+      "photo_file_id": "eDO6uAec04441933713153509377452673531602026091815",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607637329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Overhauled Farming Food",
+      "description": "تجربه بقای خود را ارتقا دهید! محصولات کشاورزی بکارید، غذا بپزید، فضایی دنج ایجاد کنید و رستوران خود را راه اندازی کنید!",
+      "version": "26.0+",
+      "number": "19"
+    },
+    {
+      "id": "436cc851",
+      "photo_file_id": "eDO6GfmX02806362955210941422974279281592026091814",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607639329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Physics Pro 1.0",
+      "description": "فیزیک واقع‌گرایانه، اکنون در Bedrock! موجودات و بازیکنان پس از مرگ، با فیزیک واقعی سقوط می‌کنند و می‌چرخند. اشیاء به طور واقع‌گرایانه پراکنده می‌شوند و انفجارهای TNT بلوک‌ها را به هوا پرتاب می‌کنند.",
+      "version": "1.26.30+",
+      "number": "20"
+    },
+    {
+      "id": "86b6d2ef",
+      "photo_file_id": "eD1XNj9V07634326002493690186168698765832026091819",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607641329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Futuristic Expansions",
+      "description": "وارد دنیای آینده شوید، جایی که سلاح‌های پیشرفته، شمشیرهای انرژی و زره‌های نسل جدید در آنجا وجود دارند.",
+      "version": "1.26.40+",
+      "number": "21"
+    },
+    {
+      "id": "8cecd048",
+      "photo_file_id": "eD1Vzzrh06018426812113438074229972637922026091819",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607643329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Spellswords",
+      "description": "سلاح‌های منحصربه‌فردی را با استفاده از 136 ترکیب مختلف ایجاد کنید و با شمشیرهایی برای مبارزه با هر دو دست و از هر دو طرف بجنگید.",
+      "version": "26.0+",
+      "number": "22"
+    },
+    {
+      "id": "6f738620",
+      "photo_file_id": "eD1WpLi703101482217637313724077277080432026091819",
+      "photo_file_type": null,
+      "photo_message_id": "1923382607645329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Mob Companions",
+      "description": "با باس‌ها در سیاهچال‌ها مبارزه کنید، زره آن‌ها را جمع‌آوری کنید، متحدان را احضار کنید و در نبرد از آن‌ها فرمان بگیرید.",
+      "version": "26.0+",
+      "number": "23"
     }
   ],
   "videos": [
@@ -714,14 +967,23 @@
       "title": "ویدیو جدید"
     }
   ],
-  "pending_photo": null,
+  "pending_photo": {
+    "file_id": "eD1VWhze08771453850750539934639313624932026091819",
+    "file_type": null,
+    "message_id": "1923382607647329284",
+    "title": "افزونه‌ی Vibrant Memories",
+    "description": "تصاویر زیبا در ماینکرافت ایجاد کنید! زوایا را ذخیره کنید، زمان و آب و هوا را تغییر دهید تا عکس‌های بی‌نقص بگیرید.",
+    "version": "1.21+",
+    "extension": "",
+    "number": "24"
+  },
   "files_by_number": {
     "1": {
       "file_id": "dxhjVAdd05332017471328020294620564181792026091318",
       "file_type": "File",
       "file_name": "SpellCraft_Add-On_RU.mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911083426719329284",
+      "message_id": "1923382607587329284",
       "source_channel_guid": null,
       "title": "xSpeell Craft"
     },
@@ -730,7 +992,7 @@
       "file_type": "File",
       "file_name": "Deep Dark Dimension Add-On.mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911083426722329284",
+      "message_id": "1923382607589329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Deep Dark Dimension"
     },
@@ -739,7 +1001,7 @@
       "file_type": "File",
       "file_name": "Basic Structure Generation (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911083426725329284",
+      "message_id": "1923382607591329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Basic Structure Generation"
     },
@@ -748,7 +1010,7 @@
       "file_type": "File",
       "file_name": "ZOMBIES REALISM Add-On BY SKYPKA.mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911083426729329284",
+      "message_id": "1923382607593329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی ZOMBIES REALISM"
     },
@@ -757,7 +1019,7 @@
       "file_type": "File",
       "file_name": "Структуры.mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911083426734329284",
+      "message_id": "1923382607595329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Структуры (Structures)"
     },
@@ -766,7 +1028,7 @@
       "file_type": "File",
       "file_name": "End_Expansion_Add-On_RU.mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911083426736329284",
+      "message_id": "1923382607597329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی End Expansion"
     },
@@ -775,7 +1037,7 @@
       "file_type": "File",
       "file_name": "Liminal Dimension Add-On v1.1 (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911083426739329284",
+      "message_id": "1923382607599329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Liminal Dimension"
     },
@@ -784,7 +1046,7 @@
       "file_type": "File",
       "file_name": "Civilization Add-On.mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911083426741329284",
+      "message_id": "1923382607601329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Civilization"
     },
@@ -793,7 +1055,7 @@
       "file_type": "File",
       "file_name": "Supplementaries Add-On by skupka.mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911873818465329284",
+      "message_id": "1923382607603329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی SuppleMentaries"
     },
@@ -802,7 +1064,7 @@
       "file_type": "File",
       "file_name": "SCP Survival.mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911873818467329284",
+      "message_id": "1923382607605329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی SCP Survival"
     },
@@ -811,7 +1073,7 @@
       "file_type": "File",
       "file_name": "Build Assist (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911873818471329284",
+      "message_id": "1923382607607329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Build Assist"
     },
@@ -820,7 +1082,7 @@
       "file_type": "File",
       "file_name": "Vending_Machines_RU.mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911873818475329284",
+      "message_id": "1923382607610329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Vending Machines"
     },
@@ -829,7 +1091,7 @@
       "file_type": "File",
       "file_name": "Cyber-Armors-Addon-MCPE-1.21.mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911873818479329284",
+      "message_id": "1923382607612329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Cyber Armors"
     },
@@ -838,7 +1100,7 @@
       "file_type": "File",
       "file_name": "Backpacks Stuff Add-On (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911873818482329284",
+      "message_id": "1923382607614329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Backpacks Stuff"
     },
@@ -847,7 +1109,7 @@
       "file_type": "File",
       "file_name": "dotv_vol2_overhaul.mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911873818484329284",
+      "message_id": "1923382607616329284",
       "source_channel_guid": null,
       "title": "افزونه‌یdotv vol2 overhaul"
     },
@@ -856,7 +1118,7 @@
       "file_type": "File",
       "file_name": "More Villages 1.0 Add-On (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911873818491329284",
+      "message_id": "1923382607632329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Мore Villages"
     },
@@ -865,7 +1127,7 @@
       "file_type": "File",
       "file_name": "Cinecam Add-On (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911873818496329284",
+      "message_id": "1923382607634329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Cinecam"
     },
@@ -874,7 +1136,7 @@
       "file_type": "File",
       "file_name": "Revive Add-On 2.1 (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911887824475329284",
+      "message_id": "1923382607636329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Revive"
     },
@@ -883,7 +1145,7 @@
       "file_type": "File",
       "file_name": "Overhauled Farming Food Add-On (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911887824478329284",
+      "message_id": "1923382607638329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Overhauled Farming Food"
     },
@@ -892,7 +1154,7 @@
       "file_type": "File",
       "file_name": "Physics Pro 1.0 Add-On (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1911887824481329284",
+      "message_id": "1923382607640329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Physics Pro 1.0"
     },
@@ -901,7 +1163,7 @@
       "file_type": "File",
       "file_name": "Futuristic Expansions Add-On (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1912136948142329284",
+      "message_id": "1923382607642329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Futuristic Expansions"
     },
@@ -910,7 +1172,7 @@
       "file_type": "File",
       "file_name": "Spellswords Add-On (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1912136948150329284",
+      "message_id": "1923382607644329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Spellswords"
     },
@@ -919,7 +1181,7 @@
       "file_type": "File",
       "file_name": "Mob Companions Add-On 1.0 (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1912136948154329284",
+      "message_id": "1923382607646329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Mob Companions"
     },
@@ -1492,7 +1754,57 @@
     "m:1923378606249329284",
     "m:1923378606253329284",
     "m:1923378606851329284",
-    "m:1923378606913329284"
+    "m:1923378606913329284",
+    "m:1923381607144329284",
+    "m:1923381607146329284",
+    "m:1923381607156329284",
+    "m:1923382607586329284",
+    "m:1923382607587329284",
+    "m:1923382607588329284",
+    "m:1923382607589329284",
+    "m:1923382607590329284",
+    "m:1923382607591329284",
+    "m:1923382607592329284",
+    "m:1923382607593329284",
+    "m:1923382607594329284",
+    "m:1923382607595329284",
+    "m:1923382607596329284",
+    "m:1923382607597329284",
+    "m:1923382607598329284",
+    "m:1923382607599329284",
+    "m:1923382607600329284",
+    "m:1923382607601329284",
+    "m:1923382607602329284",
+    "m:1923382607603329284",
+    "m:1923382607604329284",
+    "m:1923382607605329284",
+    "m:1923382607606329284",
+    "m:1923382607607329284",
+    "m:1923382607608329284",
+    "m:1923382607610329284",
+    "m:1923382607611329284",
+    "m:1923382607612329284",
+    "m:1923382607613329284",
+    "m:1923382607614329284",
+    "m:1923382607615329284",
+    "m:1923382607616329284",
+    "m:1923382607631329284",
+    "m:1923382607632329284",
+    "m:1923382607633329284",
+    "m:1923382607634329284",
+    "m:1923382607635329284",
+    "m:1923382607636329284",
+    "m:1923382607637329284",
+    "m:1923382607638329284",
+    "m:1923382607639329284",
+    "m:1923382607640329284",
+    "m:1923382607641329284",
+    "m:1923382607642329284",
+    "m:1923382607643329284",
+    "m:1923382607644329284",
+    "m:1923382607645329284",
+    "m:1923382607646329284",
+    "m:1923382607647329284"
   ],
   "activity_log": {
     "b0KZR3M0BEAo077d2f10db168ddb361e": [
@@ -1676,6 +1988,24 @@
       "chat_id": "b0IahsF0BEAo0c667263fa750539d1d2",
       "text": "/1",
       "time": "2026-09-29 05:49:24"
+    },
+    {
+      "id": "ed250c256eb0",
+      "chat_id": "b0IahsF0BEAo0c667263fa750539d1d2",
+      "text": "/postmod 2",
+      "time": "2026-09-29 13:03:52"
+    },
+    {
+      "id": "f79963aaa947",
+      "chat_id": "b0IahsF0BEAo0c667263fa750539d1d2",
+      "text": "/postmod 1",
+      "time": "2026-09-29 13:03:52"
+    },
+    {
+      "id": "6f75eed82b16",
+      "chat_id": "b0IahsF0BEAo0c667263fa750539d1d2",
+      "text": "/postvideo 2",
+      "time": "2026-09-29 13:03:52"
     }
   ]
 }
