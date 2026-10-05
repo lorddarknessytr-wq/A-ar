@@ -1,5 +1,5 @@
 {
-  "last_offset_id": "6abfdab010caf03f92c7d241",
+  "last_offset_id": "6abfdad2dbfa0e6db57c9ea1",
   "mods": [
     {
       "id": "dd82c85e",
@@ -1254,6 +1254,171 @@
       "description": "این افزونه (Addon) مکانیسم جدیدی برای ماهیگیری، هوش مصنوعی پیشرفته برای رفتار ماهی‌ها، سیستم‌های پیچیده آکواریوم و بسیاری ویژگی‌های دیگر را به تجربه ماهیگیری اضافه می‌کند.\n🔥 بیش از ۴۰ گونه ماهی\n🔥 قلاب‌های ماهیگیری جدید با قابلیت ساخت (Crafting)!\n🔥 نمایش ایموت (Emote) توسط ماهی‌ها\n🔥 آکواریوم‌های واقع‌گرایانه و کاربردی!",
       "version": "26.30",
       "number": "26"
+    },
+    {
+      "id": "17d1b275",
+      "photo_file_id": "eER5ugLf06745149785691549168447521974772026091914",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478544329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Freight Train",
+      "description": "ما به طور فعال در حال بهبود محیط بازی هستیم و پیشنهاد می‌کنیم از افزونه \"Freight Train\" برای ماینکرافت استفاده کنید. همانطور که حدس زده‌اید، این بار می‌توانید از یک وسیله نقلیه کاملاً جدید به شکل یک قطار استفاده کنید. این وسیله بزرگ در هر لحظه از طریق یک دستور در دسترس خواهد بود. در عین حال، این قطار به همراه ریل‌ها و انواع واگن‌ها اضافه خواهد شد.",
+      "version": "1.26.30+",
+      "number": "27"
+    },
+    {
+      "id": "e33733fb",
+      "photo_file_id": "eER5ckrf08482479925328847278656512341642026091915",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478547329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Police",
+      "description": "در دنیای خود، می‌توانید پلیس شوید یا دزد. در این بازی، ماشین‌های پلیس، سگ‌ها، ابزارها و بسیاری چیزهای دیگر وجود دارد.",
+      "version": "1.26.0+",
+      "number": "28"
+    },
+    {
+      "id": "6d80e615",
+      "photo_file_id": "eER6FwXv06901596972749881552682787447372026091915",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478549329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Animal Armor+",
+      "description": "14 مجموعه زره حیوانات منحصربه‌فرد با بیش از 40 قابلیت! به موش تبدیل شوید، مانند یک عقاب پرواز کنید و مانند یک شیر غرش کنید.",
+      "version": "1.26.40+",
+      "number": "29"
+    },
+    {
+      "id": "a0316e63",
+      "photo_file_id": "eEShmgzW00156220796943221789644759662582026091915",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478552329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Farmer's Delight",
+      "description": "این یک افزونه آشپزی است که به شما امکان می‌دهد انواع مختلف غذاها را بپزید، محصولات جدیدی را پرورش دهید و همچنین مبلمان جدیدی به دست آورید!",
+      "version": "1.21.101+",
+      "number": "30"
+    },
+    {
+      "id": "606a25ee",
+      "photo_file_id": "eG9K6Ui900164883647838120213669373562582026092115",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478756329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Baby Zombie EVERYTHING",
+      "description": "بیش از 40 نوع زامبی کوچک، خطرات و ماجراجویی‌های جدید! با زامبی‌های حیوانات مبارزه کنید، حیوانات خانگی را رام کنید، در میان گروه زامبی‌ها پنهان شوید و با زامبی تخریبگر به مبارزه بپردازید.",
+      "version": "1.26.30+",
+      "number": "31"
+    },
+    {
+      "id": "1ea657b4",
+      "photo_file_id": "eGaVK6rh06754799548988456303937710452332026092115",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478758329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Pirates",
+      "description": "به یک دزد دریایی واقعی تبدیل شوید، کشتی خود را بسازید و ارتقا دهید، با مار دریایی مبارزه کنید و گنج‌های کمیاب و آیتم‌های قدرتمند را پیدا کنید!",
+      "version": "26.0+",
+      "number": "32"
+    },
+    {
+      "id": "b438bbef",
+      "photo_file_id": "eGaVcm3203463471548735774628737589751852026092115",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478762329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Fabulous Furniture",
+      "description": "بیش از 250 قطعه مبلمان به سبک وانیلا! مبلمان خود را شخصی‌سازی کنید، از بین 16 رنگ انتخاب کنید، از قطعات تعاملی استفاده کنید و از ویژگی‌ها و جلوه‌های منحصربه‌فرد زیادی لذت ببرید.",
+      "version": "26.0+",
+      "number": "33"
+    },
+    {
+      "id": "2ebd0dac",
+      "photo_file_id": "eGaWjFAC02541663758493253928444798171572026092115",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478767329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Al Players",
+      "description": "همراه با بازیکنان هوش مصنوعی بازی کنید، منابع را جمع‌آوری کنید، دنیا را کاوش کنید و حتی در حالت آفلاین با دشمنان مبارزه کنید.",
+      "version": "1.26.1+",
+      "number": "34"
+    },
+    {
+      "id": "40f958ff",
+      "photo_file_id": "eGaXLZa804184831768822786656156787152342026092115",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478770329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Headcams",
+      "description": "آیا می‌خواهید استریمینگ را به ماینکرافت اضافه کنید؟ از دوربین‌های پیشانی استفاده کنید یا دوربین‌ها را روی سه‌پایه قرار دهید تا دنیا و پایگاه‌های خود را از زوایای مختلف به صورت زنده مشاهده کنید.",
+      "version": "26.0+",
+      "number": "35"
+    },
+    {
+      "id": "7f10a88e",
+      "photo_file_id": "e4J8XGrd09501317897267886004229389139282026092413",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478922329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Copper Wiring",
+      "description": "با استفاده از عناصر منطقی، باتری‌های قابل شارژ، لیزرهای رنگی و سیم‌پیچ‌های تسلا، بلوک‌های مسی و سیستم‌های اتصال زمین را به مدارهای سریع و با برد بلند تبدیل کنید!",
+      "version": "1.26.30+",
+      "number": "36"
+    },
+    {
+      "id": "2806f33f",
+      "photo_file_id": "e7ZfAjh701081750190783063942946014890992026092718",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478927329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Volatile Cuisine",
+      "description": "یک ماجراجویی آشپزی که در آن باید شکار کنید، مواد اولیه را جمع‌آوری کنید و غذاهایی با اثرات منحصربه‌فرد تهیه کنید! 21 دستور غذا، 6 ماده اولیه، 6 موجود جدید و یک قاشق آشپزی.",
+      "version": "26.0+",
+      "number": "37"
+    },
+    {
+      "id": "851b9e4a",
+      "photo_file_id": "e71qThTX02061074917123196960691672609292026092718",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478931329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Tiny Takeover : Mini Mania",
+      "description": "یک بازی دوست‌داشتنی و پر از آشفتگی با مینی‌گیم‌های همکاری! بیش از 130 اسباب‌بازی پشمالو را جمع‌آوری کنید، در چالش‌های سرگرم‌کننده‌ای شرکت کنید و دفتر کشف‌ها را پر کنید.",
+      "version": "1.26.10+",
+      "number": "38"
+    },
+    {
+      "id": "dd361e97",
+      "photo_file_id": "e73BjnYy08949304118496119100402730681082026092718",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478933329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Spellswords",
+      "description": "سلاح‌های منحصربه‌فردی را با استفاده از 136 ترکیب مختلف ایجاد کنید و با شمشیرهایی برای مبارزه با هر دو دست و از هر دو طرف بجنگید.",
+      "version": "1.26.30+",
+      "number": "39"
+    },
+    {
+      "id": "15cf71dc",
+      "photo_file_id": "e73CM5HG06037759055497600972515469288862026092718",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478937329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Glow Up RGB Lights",
+      "description": "بیش از 50 المان نوری جدید، نورپردازی پویا و رنگی، قارچ‌های درخشان، ریسه‌های نور، فانوس‌ها و سایر عناصر تزئینی برای زیباسازی محیط‌های شما!",
+      "version": "1.26.10+",
+      "number": "40"
+    },
+    {
+      "id": "39563ea8",
+      "photo_file_id": "e73AypzP03886424499131399736700394453812026092718",
+      "photo_file_type": null,
+      "photo_message_id": "1926983478940329284",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی ITEMATE",
+      "description": "مدیریت موجودی و تجهیزات را خودکار کنید: تجهیزات زرهی، انتخاب بهترین سلاح‌ها و ابزارها، پر کردن نوار ابزار سریع، قرار دادن مشعل‌ها، فیلتر کردن آیتم‌ها، گزارش‌های مربوط به انبارهای ذخیره و آهنرباهای کاربردی.",
+      "version": "1.26.30+",
+      "number": "41"
     }
   ],
   "videos": [
@@ -1576,6 +1741,166 @@
       "message_id": "1923382607701329284",
       "source_channel_guid": null,
       "title": "ویدیو جدید"
+    },
+    {
+      "id": "3cc3e945",
+      "video_file_id": "eFH4cvYA00098104048103543281733476597352026092011",
+      "file_type": "Video",
+      "message_id": "1926983478717329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "8b285f10",
+      "video_file_id": "eFH5F1XF08535561502738537467658390966962026092011",
+      "file_type": "Video",
+      "message_id": "1926983478719329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "dbc04d03",
+      "video_file_id": "eFH4FpgM00923341617162687435656214517972026092011",
+      "file_type": "Video",
+      "message_id": "1926983478721329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "502b44e8",
+      "video_file_id": "eFH3Fyfa02704546817932416445668694502512026092011",
+      "file_type": "Video",
+      "message_id": "1926983478722329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "ff91dff4",
+      "video_file_id": "eFH3f9vV07988902046908179155800679961062026092011",
+      "file_type": "Video",
+      "message_id": "1926983478725329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "b8c1849a",
+      "video_file_id": "eFH3RjhF06950144572832960546459328126942026092011",
+      "file_type": "Video",
+      "message_id": "1926983478727329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "1e203592",
+      "video_file_id": "eFH3Gq5o07401562708935900395463417325892026092011",
+      "file_type": "Video",
+      "message_id": "1926983478728329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "7be54b52",
+      "video_file_id": "eFH4gZLe01647778927815268694708107145762026092011",
+      "file_type": "Video",
+      "message_id": "1926983478730329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "2acd19a8",
+      "video_file_id": "eFH3jVLj00700857389228149770843720218722026092011",
+      "file_type": "Video",
+      "message_id": "1926983478731329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "f860a18c",
+      "video_file_id": "eFH4oKQJ02735190856568074251417808462912026092011",
+      "file_type": "Video",
+      "message_id": "1926983478732329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "2f4e2eb8",
+      "video_file_id": "eFH4IEru06756165193020105763337608611802026092011",
+      "file_type": "Video",
+      "message_id": "1926983478734329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "8fa0a6e6",
+      "video_file_id": "eFH4B74w01846351680086641317969996798322026092011",
+      "file_type": "Video",
+      "message_id": "1926983478736329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "ba5bf386",
+      "video_file_id": "eFH3aeta02169998990376972552461259117482026092011",
+      "file_type": "Video",
+      "message_id": "1926983478738329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "dac8a04a",
+      "video_file_id": "eFIeWBXT03676077949984159822079782707972026092011",
+      "file_type": "Video",
+      "message_id": "1926983478741329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "e1af08b6",
+      "video_file_id": "eFIeuddW05285658712357602201614582500202026092011",
+      "file_type": "Video",
+      "message_id": "1926983478742329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "cc39507b",
+      "video_file_id": "eFId4NwN04534189060699939830419440167672026092011",
+      "file_type": "Video",
+      "message_id": "1926983478745329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "288c1919",
+      "video_file_id": "eFIeqsCb05304840846765442799253493328452026092011",
+      "file_type": "Video",
+      "message_id": "1926983478746329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "2be4cac1",
+      "video_file_id": "eFIg7cqr02203580112379241229245508520142026092011",
+      "file_type": "Video",
+      "message_id": "1926983478749329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "917514a5",
+      "video_file_id": "eFIf8Xm505359546753002535197429887804692026092011",
+      "file_type": "Video",
+      "message_id": "1926983478751329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "bda6d0e2",
+      "video_file_id": "eFIfELIH06041483143100950959101845359302026092011",
+      "file_type": "Video",
+      "message_id": "1926983478753329284",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
     }
   ],
   "pending_photo": null,
@@ -1819,7 +2144,7 @@
       "file_type": "File",
       "file_name": "Freight-Train-Addon-MCPE-1.21.mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1923382607655329284",
+      "message_id": "1926983478546329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Freight Train"
     },
@@ -1828,7 +2153,7 @@
       "file_type": "File",
       "file_name": "Police Add-On (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1923382607657329284",
+      "message_id": "1926983478548329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Police"
     },
@@ -1837,7 +2162,7 @@
       "file_type": "File",
       "file_name": "Animal Armor+ (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1923382607659329284",
+      "message_id": "1926983478550329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Animal Armor+"
     },
@@ -1846,7 +2171,7 @@
       "file_type": "File",
       "file_name": "FarmersDelight_RU.mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1923382607661329284",
+      "message_id": "1926983478553329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Farmer's Delight"
     },
@@ -1855,7 +2180,7 @@
       "file_type": "File",
       "file_name": "Baby Zombie EVERYTHING! Add-On (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1923382607703329284",
+      "message_id": "1926983478757329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Baby Zombie EVERYTHING"
     },
@@ -1864,7 +2189,7 @@
       "file_type": "File",
       "file_name": "Пираты Add-On (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1923382607706329284",
+      "message_id": "1926983478760329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Pirates"
     },
@@ -1873,7 +2198,7 @@
       "file_type": "File",
       "file_name": "Великолепная мебель Add-On (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1923382607709329284",
+      "message_id": "1926983478765329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Fabulous Furniture"
     },
@@ -1882,7 +2207,7 @@
       "file_type": "File",
       "file_name": "AI Players Add-On (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1923382607711329284",
+      "message_id": "1926983478768329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Al Players"
     },
@@ -1891,7 +2216,7 @@
       "file_type": "File",
       "file_name": "Headcams (addon) (1).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1923382607713329284",
+      "message_id": "1926983478771329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Headcams"
     },
@@ -1900,7 +2225,7 @@
       "file_type": "File",
       "file_name": "Copper Wiring.mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1923382607730329284",
+      "message_id": "1926983478923329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Copper Wiring"
     },
@@ -1909,7 +2234,7 @@
       "file_type": "File",
       "file_name": "Volatile Cuisine (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1923382607732329284",
+      "message_id": "1926983478928329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Volatile Cuisine"
     },
@@ -1918,7 +2243,7 @@
       "file_type": "File",
       "file_name": "Tiny Takeover Mini Mania (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1923382607734329284",
+      "message_id": "1926983478932329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Tiny Takeover : Mini Mania"
     },
@@ -1927,7 +2252,7 @@
       "file_type": "File",
       "file_name": "Spellswords Add-On (addon) (1).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1921848838361329284",
+      "message_id": "1926983478934329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Spellswords"
     },
@@ -1936,7 +2261,7 @@
       "file_type": "File",
       "file_name": "Glow Up RGB Lights Add-On (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1921848838364329284",
+      "message_id": "1926983478939329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی Glow Up RGB Lights"
     },
@@ -1945,7 +2270,7 @@
       "file_type": "File",
       "file_name": "ITEMATE Add-On (addon).mcaddon",
       "manual_extension": ".mcaddon",
-      "message_id": "1921848838366329284",
+      "message_id": "1926983478943329284",
       "source_channel_guid": null,
       "title": "افزونه‌ی ITEMATE"
     },
@@ -2160,11 +2485,7 @@
     "date": null,
     "hours": []
   },
-  "sent_log": {
-    "help:b0HGUl0BEAo085282fb45b7b8fac902b": "2026-10-05 02:22",
-    "numreq:b0HGUl0BEAo085282fb45b7b8fac902b:1": "2026-10-05 02:22",
-    "numreq:b0HGUl0BEAo085282fb45b7b8fac902b:5": "2026-10-05 02:22"
-  },
+  "sent_log": {},
   "errors": [
     {
       "id": "981791",
@@ -2627,7 +2948,57 @@
     "m:1926983478536329284",
     "m:1926983478541329284",
     "m:1926983478542329284",
-    "m:1926983478543329284"
+    "m:1926983478543329284",
+    "m:1926983478544329284",
+    "m:1926983478546329284",
+    "m:1926983478547329284",
+    "m:1926983478548329284",
+    "m:1926983478549329284",
+    "m:1926983478550329284",
+    "m:1926983478552329284",
+    "m:1926983478553329284",
+    "m:1926983478717329284",
+    "m:1926983478719329284",
+    "m:1926983478721329284",
+    "m:1926983478722329284",
+    "m:1926983478725329284",
+    "m:1926983478727329284",
+    "m:1926983478728329284",
+    "m:1926983478730329284",
+    "m:1926983478731329284",
+    "m:1926983478732329284",
+    "m:1926983478734329284",
+    "m:1926983478736329284",
+    "m:1926983478738329284",
+    "m:1926983478741329284",
+    "m:1926983478742329284",
+    "m:1926983478745329284",
+    "m:1926983478746329284",
+    "m:1926983478749329284",
+    "m:1926983478751329284",
+    "m:1926983478753329284",
+    "m:1926983478756329284",
+    "m:1926983478757329284",
+    "m:1926983478758329284",
+    "m:1926983478760329284",
+    "m:1926983478762329284",
+    "m:1926983478765329284",
+    "m:1926983478767329284",
+    "m:1926983478768329284",
+    "m:1926983478770329284",
+    "m:1926983478771329284",
+    "m:1926983478922329284",
+    "m:1926983478923329284",
+    "m:1926983478927329284",
+    "m:1926983478928329284",
+    "m:1926983478931329284",
+    "m:1926983478932329284",
+    "m:1926983478933329284",
+    "m:1926983478934329284",
+    "m:1926983478937329284",
+    "m:1926983478939329284",
+    "m:1926983478940329284",
+    "m:1926983478943329284"
   ],
   "activity_log": {
     "b0KZR3M0BEAo077d2f10db168ddb361e": [
